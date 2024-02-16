@@ -1,2 +1,2 @@
 # FirstIB
-First IB my 1C learning
+My first 1C information base with catalogs, documents, reports, etc.
